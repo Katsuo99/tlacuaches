@@ -1,0 +1,27 @@
+@media screen and (max-width:500px) {
+.nav__img{
+    width: 100px;
+}
+.nav__titulo{
+    font-size: 3rem;
+}
+.ejercicios__titulo{
+    font-size: 2.5rem;
+}
+.ejercicios__img{
+    margin: 1.5rem 0;
+}
+.mvp__img{
+    width: 50%;
+}
+.mvp__text{
+    margin-top: 0;
+    font-size: 2.5rem;
+}
+.semanas{
+    grid-template-columns: repeat(4,1fr);
+}
+.semana h3{
+    font-size: 3rem;
+}
+}
